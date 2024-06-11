@@ -206,12 +206,12 @@ class _MyHomePageState extends State<MyHomePage> {
               if (error) ...[
                 FloatingActionButton(
                   tooltip: 'Retry call',
-                  child: const Icon(Icons.add_call),
                   backgroundColor: Colors.green,
                   onPressed: () async => await doTry(
                     runAsync: () => join(),
                     onError: () => hangUp(false),
                   ),
+                  child: const Icon(Icons.add_call),
                 ),
               ],
               if (localRenderOk && signaling.isJoined()) ...[
@@ -264,12 +264,12 @@ class _MyHomePageState extends State<MyHomePage> {
               ] else ...[
                 FloatingActionButton(
                   tooltip: 'Start call',
-                  child: const Icon(Icons.call),
                   backgroundColor: Colors.green,
                   onPressed: () async => await doTry(
                     runAsync: () => join(),
                     onError: () => hangUp(false),
                   ),
+                  child: const Icon(Icons.call),
                 ),
               ],
             ],
