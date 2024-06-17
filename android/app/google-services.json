@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "872710576252",
-    "project_id": "connect-34548",
-    "storage_bucket": "connect-34548.appspot.com"
+    "project_number": "445435623395",
+    "project_id": "flutterfirertc",
+    "storage_bucket": "flutterfirertc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:872710576252:android:4bb0e950107bbd647a51f9",
-        "android_client_info": {
-          "package_name": "com.example.complete"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAZ65XA8MotSxAiWf3NzSFaV-f2Bxxc8Fw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:872710576252:android:f732747fbd27383e7a51f9",
+        "mobilesdk_app_id": "1:445435623395:android:c7eef4fa622ca17b8a52d6",
         "android_client_info": {
           "package_name": "it.maionemiky.flutter_firebase_video_call_webrtc"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAZ65XA8MotSxAiWf3NzSFaV-f2Bxxc8Fw"
+          "current_key": "AIzaSyBI_-Fvr9MMH7t2f3ijHg3o-DJlhfh4iAM"
         }
       ],
       "services": {
